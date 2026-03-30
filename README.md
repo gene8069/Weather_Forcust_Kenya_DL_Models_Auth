@@ -103,7 +103,7 @@ kenya-weather-forecast/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Melckykaisha/Weather_Forcust_Kenya_DL_Models
+git clone https://github.com/Melckykaisha/Weather_Forcust_Kenya_DL_Models_Auth
 cd Kenya_weather_forcust_DL
 ```
 
