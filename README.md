@@ -6,7 +6,7 @@ A deep learning-based weather forecasting system that predicts local weather con
 
 ## 🚀 Live Demo
 
-> **[Launch App →](https://7dayweatherforcustingkenya.streamlit.app/)**
+> **[Launch App →](https://7dayweatherforcustkenya2.streamlit.app/)**
 
 ---
 
